@@ -23,10 +23,12 @@ Master of the elven warbands, the Arcane Archer is a warrior skilled in using ma
 
 ## Requirements
 
-Race: Elf or half-elf.
-Base Attack Bonus: +6
-Feats: Weapon Focus Longbow or Weapon Focus Shortbow, Point Blank Shot.
-Spellcasting: Able to cast 1st-level arcane spells.
+* Race: Elf or half-elf.
+* Base Attack Bonus: +6
+* Feats: 
+	* Weapon Focus Longbow or Weapon Focus Shortbow 
+	* Point Blank Shot.
+* Spellcasting: Able to cast 1st-level arcane spells.
 
 ## Abilities
 
