@@ -14,10 +14,28 @@ Standard Abilities:
 - Spellcasting: Arcane (Charisma-based, no spell preparation, spell failure from armor is a factor); Bards begin the game knowing all cantrips.
 - Ex-Bards: Bards cannot gain levels of experience while they are of any lawful alignment.
 
-Class Skills: Antagonize, Appraise, Concentration, Discipline, Heal, Hide, Influence, Listen, Lore, Move Silently, Parry, Perform, Pick Pocket, Spellcraft, Tumble, Use Magic Device.
-Unavailable Skills: Animal Empathy.
+### Class Skills: 
+* Antagonize
+* Appraise
+* Concentration
+* Discipline
+* Heal
+* Hide
+* Influence
+* Listen
+* Lore
+* Move Silently
+* Parry
+* Perform
+* Pick Pocket
+* Spellcraft
+* Tumble
+* Use Magic Device
 
-ABILITIES:
+### Unavailable Skills: 
+* Animal Empathy
 
-Bardic Knowledge - +1 skill bonus to Lore for every Bard level.
-Bard Song - Provides bonuses to you and your allies.
+## Abilities
+
+* Bardic Knowledge - +1 skill bonus to Lore for every Bard level.
+* Bard Song - Provides bonuses to you and your allies.
