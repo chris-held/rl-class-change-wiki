@@ -9,26 +9,41 @@ The defender is a sponsored champion of a dwarven cause, a dwarven aristocrat, a
 - Proficiencies: Simple and Martial Weapons, Light, Medium and Heavy Armor Proficiency, Shields
 - Skill Points: 2 + Int Modifier.
 
-Class Skills: Concentration, Discipline, Heal, Listen, Lore, Parry, Spot.
-Unavailable Skills: Animal Empathy, Use Magic Device.
+### Class Skills: 
+* Concentration 
+* Discipline
+* Heal
+* Listen
+* Lore
+* Parry
+* Spot
 
-REQUIREMENTS:
+### Unavailable Skills: 
+* Animal Empathy 
+* Use Magic Device.
 
-Alignment: Any lawful.
-Race: Dwarf
-Feats: Dodge, Toughness.
-Base Attack Bonus: +7
+## Requirements
 
-ABILITIES:
+* Alignment: Any lawful.
+* Race: Dwarf
+* Feats: 
+   * Dodge 
+   * Toughness
+* Base Attack Bonus: +7
 
-Level
-1: Defensive Awareness I - Retain Dexterity bonus to AC, even when flat-footed.
-  Defensive Stance (1x/day) - Gain +2 Str, +4 Con, +2 on all saves, +4 dodge bonus on AC.
-3: Defensive Stance (2x/day).
-5: Defensive Awareness II - Can no longer be flanked.
-  Defensive Stance (3x/day).
-6: Damage Reduction III - Ignore 3 physical damage per hit.
-7: Defensive Stance (4x/day).
-9: Defensive Stance (5x/day).
-10: Defensive Awareness III - +1 bonus on saves vs. traps.
-   Damage Reduction VI - Ignore 6 physical damage per hit.
+## Abilities
+
+#### Level
+1. 
+  * Defensive Awareness I - Retain Dexterity bonus to AC, even when flat-footed.
+  * Defensive Stance (1x/day) - Gain +2 Str, +4 Con, +2 on all saves, +4 dodge bonus on AC.
+3. Defensive Stance (2x/day).
+5. 
+  * Defensive Awareness II - Can no longer be flanked.
+  * Defensive Stance (3x/day).
+6. Damage Reduction III - Ignore 3 physical damage per hit.
+7. Defensive Stance (4x/day).
+9. Defensive Stance (5x/day).
+10. 
+  * Defensive Awareness III - +1 bonus on saves vs. traps.
+   * Damage Reduction VI - Ignore 6 physical damage per hit.
