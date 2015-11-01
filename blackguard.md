@@ -12,25 +12,35 @@ WARNING: To cast a spell, a blackguard must have a Wisdom score of 10 + the spel
 - Skill Points: 2 + Int Modifier.
 - Spellcasting: Blackguard Spells. Divine (Wisdom based, no spell preparation, armor-related chance of spell failure is ignored).
 
-Class Skills: Antagonize, Concentration, Discipline, Heal, Influence, Lore, Parry.
-Unavailable Skills: Animal Empathy, Use Magic Device.
+### Class Skills: 
+* Antagonize
+* Concentration
+* Discipline
+* Heal
+* Influence
+* Lore
+* Parry
+ 
+### Unavailable Skills:
+* Animal Empathy
+* Use Magic Device
 
-REQUIREMENTS:
+## Requirements
 
-Alignment: Any evil.
-Base Attack Bonus: +6
-Skills: Hide 5 ranks.
-Feats: Cleave.
+* Alignment: Any evil.
+* Base Attack Bonus: +6
+* Skills: Hide 5 ranks.
+* Feats: Cleave.
 
-ABILITIES:
+## Abilities
 
-Level
-1: Use Poison - Automatic success when coating a weapon with poison.
-2: Dark Blessing - Add Charisma modifier to all saving throws.
+#### Level
+1. Use Poison - Automatic success when coating a weapon with poison.
+2. Dark Blessing - Add Charisma modifier to all saving throws.
   Smite Good - A special attacks that grants bonus attack and damage against good creatures.
-3: Create Undead - Summon an undead ally.
+3. Create Undead - Summon an undead ally.
   Turn Undead - Cause undead to flee in terror.
-4: Sneak Attack 1d6 - Deal bonus damage when flanking.
-5: Summon Fiend - Summon a fiendish ally.
-7: Sneak Attack 2d6.
-10: Sneak Attack 3d6.
+4. Sneak Attack 1d6 - Deal bonus damage when flanking.
+5. Summon Fiend - Summon a fiendish ally.
+7. Sneak Attack 2d6.
+10. Sneak Attack 3d6.
