@@ -12,24 +12,45 @@ WARNING: To cast a spell, an assassin must have an Intelligence score of 10 + th
 - Skill Points: 4 + Int Modifier.
 - Spellcasting: Assassin Spells. (Intelligence-based, no spell preparation).
 
-Class Skills: Antagonize, Appraise, Disable Trap, Heal, Hide, Influence, Listen, Lore, Move Silently, Open Lock, Parry, Pick Pocket, Search, Set Trap, Spot, Tumble, Use Magic Device.
-Unavailable Skills: Animal Empathy.
+### Class Skills: 
+* Antagonize 
+* Appraise 
+* Disable Trap 
+* Heal 
+* Hide 
+* Influence 
+* Listen 
+* Lore 
+* Move Silently 
+* Open Lock 
+* Parry 
+* Pick Pocket 
+* Search 
+* Set Trap 
+* Spot 
+* Tumble 
+* Use Magic Device
 
-REQUIREMENTS:
+### Unavailable Skills: 
+* Animal Empathy.
 
-Alignment: Any evil.
-Skills: Hide 8 ranks, Move Silently 8 ranks.
+## Requirements
 
-ABILITIES:
+* Alignment: Any evil.
+* Skills: 
+	* Hide 8 ranks 
+	* Move Silently 8 ranks
+
+## Abilities
 
 Level
-1: Death Attack 1d6 - Special sneak attack that has a chance of paralyzing opponent.
+1. Death Attack 1d6 - Special sneak attack that has a chance of paralyzing opponent.
   Use Poison - Automatic success when coating a weapon with poison.
-2: Poison Save - Gain a +1 bonus to saves throws vs. poison for every 2 assassin levels.
+2. Poison Save - Gain a +1 bonus to saves throws vs. poison for every 2 assassin levels.
   Uncanny Dodge I - Retain Dexterity bonus to AC, even when flat-footed.
-3: Death Attack 2d6.
-5: Death Attack 3d6.
+3. Death Attack 2d6.
+5. Death Attack 3d6.
   Uncanny Dodge II - +1 bonus on Reflex saves vs. traps.
-7: Death Attack 4d6.
-9: Death Attack 5d6.
-10: Uncanny Dodge III - +2 bonus on Reflex saves vs. traps.
+7. Death Attack 4d6.
+9. Death Attack 5d6.
+10. Uncanny Dodge III - +2 bonus on Reflex saves vs. traps.
