@@ -11,9 +11,18 @@ WARNING: To cast a spell, a cleric must have a Wisdom score of 10 + the spell's 
 - Skill Points (*4 at 1st level): 2 + Int Modifier.
 - Spellcasting: Divine (Wisdom-based, spell failure from armor is ignored).
 
-Class Skills: Concentration, Heal, Influence, Lore, Parry, Spellcraft.
-Unavailable Skills: Animal Empathy, Use Magic Device.
+### Class Skills: 
+* Concentration
+* Heal
+* Influence
+* Lore
+* Parry
+* Spellcraft
 
-ABILITIES:
+### Unavailable Skills: 
+* Animal Empathy
+* Use Magic Device
 
-Turn Undead - Cause undead to flee in terror.
+## Abilities
+
+* Turn Undead - Cause undead to flee in terror.
