@@ -43,7 +43,7 @@ WARNING: To cast a spell, an assassin must have an Intelligence score of 10 + th
 
 ## Abilities
 
-Level
+#### Level
 1. Death Attack 1d6 - Special sneak attack that has a chance of paralyzing opponent.
   Use Poison - Automatic success when coating a weapon with poison.
 2. Poison Save - Gain a +1 bonus to saves throws vs. poison for every 2 assassin levels.
